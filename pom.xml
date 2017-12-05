@@ -9,5 +9,12 @@
 	 <maven.compiler.target>1.8</maven.compiler.target>
 	 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <dependencies>
+	  <dependency>
+	   <groupId>fr.afcepf.al30</groupId>
+	   <artifactId>abstractBankWs</artifactId>
+	   <version>0.0.1-SNAPSHOT</version>
+	  </dependency>
+  </dependencies>
   
 </project>
