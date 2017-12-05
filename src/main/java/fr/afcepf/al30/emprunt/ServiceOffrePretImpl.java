@@ -9,7 +9,10 @@ import fr.afcepf.al30.bank.valeurs.ServiceTauxFraisBusinessDelegate;
 
 /*
  * ce projet ne s'appuie que sur les interface jax-ws des services à appeler/orchestrer
- * içi récupéreées par copier/coller mais idéalement avec dépendances maven vers sous projet interfaces
+ * içi récupérées par copier/coller mais idéalement avec dépendances maven vers sous projet interfaces
+ * 
+ * ==> bonne décomposition en sous projets:
+ *    page 30 du support de cours UML/conception_avec_uml
  */
 
 
